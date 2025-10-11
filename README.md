@@ -65,12 +65,11 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cimeriann&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cimeriann" alt="GitHub Streak" />
-</p>
+</p> -->
