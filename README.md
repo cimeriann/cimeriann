@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olayinka</h1>
-<h3 align="center">DevOps Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olayinka-adebisi/">
@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently engineering some pretty cool systems
+- Currently engineering some pretty cool systems
 - 👯 Open to collaborating on **DevOps and Cloud-native projects**
 - 📝 I write on [Medium](https://medium.com/@adebisiolayinka30) about tools, automation, and cloud
 - 💬 Ask me about **AWS, CI/CD, Containers, Terraform**
