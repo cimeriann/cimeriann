@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently diving deep into **Google Cloud Platform (GCP)**
+- 🔭 Currently engineering some pretty cool systems
 - 👯 Open to collaborating on **DevOps and Cloud-native projects**
 - 📝 I write on [Medium](https://medium.com/@adebisiolayinka30) about tools, automation, and cloud
 - 💬 Ask me about **AWS, CI/CD, Containers, Terraform**
